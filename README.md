@@ -15,7 +15,6 @@
                                selector:""
                            });
                            
- 
    /**  
     * @param  {Number} offsetLeft 容器距左边距离  
     * @param  {Number} offsetBottom 容器距下边距离  
