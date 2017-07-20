@@ -9,7 +9,7 @@
                                offsetLeft:"",
                                offsetBottom:"",
                                offsetRight:"",
-                               offsetTop:top,
+                               offsetTop:"",
                                timer:"",
                                container:"",
                                selector:""
